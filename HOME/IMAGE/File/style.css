@@ -232,6 +232,27 @@ li{
 
 }
 
+/* ---------story---------- */
+
+#hori10{
+    margin: 2% 30% 0 30%;
+       
+    
+
+}
+.story p{
+    margin: 2% 20%;
+    text-align: center;
+    padding: 18px;
+    font-size: 15px;
+    line-height: 30px;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+
+
+
 
 
 
