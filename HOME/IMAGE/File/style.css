@@ -141,6 +141,7 @@ li{
     background-position: center;
     background-size: cover;
     transition: transform 0.3s;
+     filter: grayscale(100%);
    
 }
 
@@ -220,28 +221,9 @@ li{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .image:hover{
     transform: scale(1.2);
+     filter: grayscale(0%);
 }
 
 #hori1{
