@@ -333,6 +333,63 @@ img{
 }
 
 
+/* --------------JOURNAL------ */
+.journal p{
+    margin: 20px;
+    text-align: center;
+    padding: 25px;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.journal h2{
+    text-align:center;
+    font-size: 27px;
+    margin: 0;
+    padding: 0;
+    text-decoration:line-through #232222;
+}
+#p1{
+    margin-top: 0;
+    padding: 0;
+    margin-bottom: 0;
+}
+#p2{
+    margin-top: 5px;
+    padding: 0;
+    padding-top: 3px;
+    margin-bottom: 0;
+}
+
+/* ---------------------------------------------- */
+/* ----------------POEM------- */
+
+#hori10{
+    margin: 2% 30% 0 30%;
+       
+    
+
+}
+.poem p{
+    /* margin: 20px; */
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.poem span{
+    font-size: 10px;
+}
+
+#hori12{
+    margin: 1% 10% 1% 10%;
+}
+
+
+
 /* --------------courage------ */
 .courage p{
     margin: 20px;
@@ -340,6 +397,8 @@ img{
     padding: 25px;
     font-size: 20px;
     line-height: 30px;
+    margin-bottom: 0;
+    padding-bottom: 10px;
 }
 
 
