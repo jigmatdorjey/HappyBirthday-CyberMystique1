@@ -615,3 +615,83 @@ img{
    
     
 }
+
+
+
+
+
+/* ----------------------loader----------------------*/
+
+ #loader{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+
+ .loader {
+    width: 25px;
+    height: 25px;
+    border: 2px solid #FFF;
+    border-bottom-color: #FF3D00;
+    border-radius: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    animation: rotation 1s linear infinite;
+    padding-top: 2px;
+    }
+
+    @keyframes rotation {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+    } 
+
+
+    
+  
+ 
+    
+    .btn{
+        display: block;
+        margin: 50px auto;
+        width: 180px;
+        border: 1px solid #ff004f;
+        padding: 14px 50px;
+        border-radius: 6px;
+        text-decoration: none;
+        color: #fff;
+        transition: background 0.5s;
+    }
+    
+    .btn.btn2:hover{
+        background: transparent;
+        color: #ff004f;
+    
+    }
+    
+    .btn.btn2{
+        display: inline-block;
+        background: #ff004f;
+    }
+    .download .btn2{
+        padding: 8px 25px;
+        font-size: 18px;
+        margin-top: 20px;
+        cursor: pointer;
+    }
+    .download{
+        margin-top: 15px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .btn{
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    
