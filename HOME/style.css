@@ -361,3 +361,7 @@ h1 span{
     align-items: center;
     font-size: 10px;
 }
+
+#nom{
+    display:none;
+}
