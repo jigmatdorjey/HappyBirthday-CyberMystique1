@@ -620,6 +620,20 @@ img{
         padding: 10px 0 0 0;
         margin: 0;
     }
+    .courage{
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+     .courage p{
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+    .download{
+        margin-top: 0;
+    
+    }
+
+   
 }
    
     
@@ -664,7 +678,7 @@ img{
     
   
  
-    
+/*     
     .btn{
         display: block;
         margin: 50px auto;
@@ -704,3 +718,4 @@ img{
         text-align: center;
     }
     
+ */
