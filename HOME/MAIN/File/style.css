@@ -616,10 +616,14 @@ img{
         margin:0;
         padding: 10% 0 10% 0;
     }
+    #paraMP{
+        padding: 10px 0 0 0;
+        margin: 0;
+    }
 }
    
     
-}
+
 
 
 
