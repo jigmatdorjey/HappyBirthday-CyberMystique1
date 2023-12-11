@@ -612,6 +612,11 @@ img{
         margin-top: 20px;
         cursor: pointer;
     }
+    #phoneMargin{
+        margin:0;
+        padding: 10% 0 10% 0;
+    }
+}
    
     
 }
