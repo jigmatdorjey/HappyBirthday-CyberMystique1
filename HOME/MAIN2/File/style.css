@@ -871,4 +871,39 @@ in all html class
 
 
 
+/* ---------------LOADER-2 ------------------- */
+
+.nextload{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nextload .btn{
+    color: #000;
+}
+.nextAnimate{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.nextload .btn.btn2:hover{
+    background: transparent;
+    color: #ff004f;
+
+}
+
+.nextload .btn.btn2{
+    display: inline-block;
+    background: #ff004f;
+}
+.loader {
+    border-bottom-color: red;
+    
+    }
+
+  
+
+
+
 
